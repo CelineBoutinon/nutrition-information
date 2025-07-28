@@ -57,12 +57,9 @@ La définition des variables est disponible sur https://world.openfoodfacts.org/
 
 ## Langages & software
 
-* Python 3.9.13
-  * matplotlib 3.5.2
-  * missingno 0.4.1
-  * numpy 1.21.5
-  * pandas 1.4.4
-  * seaborn 0.11.2
+* Python 3.13.2
+
+Voir requirements.txt pour la liste complète des librairies & packages.
   
 
 
