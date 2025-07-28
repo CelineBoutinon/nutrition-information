@@ -1,9 +1,6 @@
 ![Logo](logo.jpg)
 
 
-MENTIONS LÉGALES
-
-Cette étude a été produite par CelineBoutinon sur la base des données en libre-accès sur https://world.openfoodfacts.org/ et par référence au Nutri-Score mis en place par Santé Publique France en octobre 2017. Ni Open Food Facts ni Santé Publique France ne donnent aucune garantie quant à l’exactitude, l’exhaustivité ou l’adéquation à l’usage des données et ne sauraient être tenus responsables de toute utilisation ou dépendance à l’égard de ces données, ni des analyses ou conclusions qui en découlent. Ni Open Food Facts ni Santé Publique France n’endosse ni ne certifie aucune analyse, interprétation ou conclusion présentée ici, qui restent la responsabilité seule de l'auteure. Pour plus de détails, veuillez consulter les conditions d’utilisation sur https://world.openfoodfacts.org/code-of-conduct.
 
 
 # PRÉPARER DES DONNÉES POUR UN ORGANISME DE SANTÉ PUBLIQUE
@@ -63,6 +60,9 @@ Voir requirements.txt pour la liste complète des librairies & packages.
   
 
 
+## MENTIONS LÉGALES
+
+Cette étude a été produite par CelineBoutinon sur la base des données en libre-accès sur https://world.openfoodfacts.org/ et par référence au Nutri-Score mis en place par Santé Publique France en octobre 2017. Ni Open Food Facts ni Santé Publique France ne donnent aucune garantie quant à l’exactitude, l’exhaustivité ou l’adéquation à l’usage des données et ne sauraient être tenus responsables de toute utilisation ou dépendance à l’égard de ces données, ni des analyses ou conclusions qui en découlent. Ni Open Food Facts ni Santé Publique France n’endosse ni ne certifie aucune analyse, interprétation ou conclusion présentée ici, qui restent la responsabilité seule de l'auteure. Pour plus de détails, veuillez consulter les conditions d’utilisation sur https://world.openfoodfacts.org/code-of-conduct.
 
 
 
